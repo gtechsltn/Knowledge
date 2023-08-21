@@ -1,6 +1,6 @@
 # Knowledge
 
-## Session Timeout & # Session State
+## Session Timeout & Session State
 + https://github.com/dotnet/AspNetCore.Docs/blob/main/aspnetcore/fundamentals/app-state.md
 + https://stackoverflow.com/questions/49621453/how-to-automatically-redirect-if-session-expires-asp-net-from-sessiontimeout-a
 + https://www.techieclues.com/blogs/how-to-increase-the-session-timeout-in-asp-net-mvc-application
@@ -14,3 +14,6 @@
 
 ## Samples
 + https://github.com/KennethScott/ASP.NET-Session-Timeout-Control/
++ https://www.thetechplatform.com/post/how-to-check-session-timeout-in-asp-net
++ **SessionHelper.cs**
++ https://github.com/kcly3027/knowledge/
